@@ -18,6 +18,7 @@ class StopsovetnikAsset extends AssetBundle
     public $sourcePath = '@skeeks/yii2/stopsovetnik/assets';
 
     public $js = [
-        'dist/ss.min.js',
+        //'src/ss2.js',
+        'dist/ss2.min.js',
     ];
 }
